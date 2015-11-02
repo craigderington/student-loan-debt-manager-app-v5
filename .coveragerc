@@ -1,0 +1,3 @@
+[run]
+include = studentloan5/*
+omit = *migrations*
